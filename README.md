@@ -1,3 +1,7 @@
+**NOTE:** The contents of this repository have been encorporated into the main [w3c/activitystreams](https://github.com/w3c/activitystreams) repository's [test](https://github.com/w3c/activitystreams/tree/master/test) directory. Please watch use that repository in the future. Thanks!
+
+- - -
+
 activitystreams-test-documents
 ==============================
 
